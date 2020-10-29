@@ -37,6 +37,10 @@
     margin: 10px;
 }
 
+#sticky-card {
+    position: sticky;
+}
+
 /* Button */
 .btn {
     display: inline-block;
